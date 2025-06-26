@@ -1,4 +1,3 @@
-import React from 'react';
 import WizardContainer from './components/wizard/WizardContainer';
 import './App.css';
 
